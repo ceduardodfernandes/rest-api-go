@@ -1,4 +1,4 @@
-#API Documentation
+# API Documentation
 
 - GET `/users` To get all users
 - GET `/users/:id` To get a specific user
